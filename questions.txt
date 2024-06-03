@@ -1,0 +1,2 @@
+Age : continu ou discret sachant qu'a été tronqué à 5 ans près ?
+Sight_left et sight_right : unité ?

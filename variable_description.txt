@@ -1,0 +1,24 @@
+Colunm	Description(US)	KR
+Sex	male, female
+age	round up to 5 years
+height	round up to 5 cm[cm]
+weight	[kg]
+sight_left	eyesight(left)
+sight_right	eyesight(right)	
+hear_left	hearing left, 1(normal), 2(abnormal)	청력
+hear_right	hearing right, 1(normal), 2(abnormal)	청력
+SBP	Systolic blood pressure[mmHg]	수축기 혈압
+DBP	Diastolic blood pressure[mmHg]	이완기 혈압
+BLDS	BLDS or FSG(fasting blood glucose)[mg/dL]	공복혈당
+tot_chole	total cholesterol[mg/dL]	총 콜레스테롤
+HDL_chole	HDL cholesterol[mg/dL]	HDL 콜레스테롤
+LDL_chole	LDL cholesterol[mg/dL]	LDL 콜레스테롤
+triglyceride	triglyceride[mg/dL]	중성지방
+hemoglobin	hemoglobin[g/dL]	헤모글로빈
+urine_protein	protein in urine, 1(-), 2(+/-), 3(+1), 4(+2), 5(+3), 6(+4)	요단백 또는 단백뇨
+serum_creatinine	serum(blood) creatinine[mg/dL]	혈청 크레아티닌
+SGOT_AST	SGOT(Glutamate-oxaloacetate transaminase) AST(Aspartate transaminase)[IU/L]	혈청지오티 AST
+SGOT_ALT	ALT(Alanine transaminase)[IU/L]	혈청지오티 ALT
+gamma_GTP	y-glutamyl transpeptidase[IU/L]	감마지티피
+SMK_stat_type_cd	Smoking state, 1(never), 2(used to smoke but quit), 3(still smoke)	흡연상태
+DRK_YN	Drinker or Not	음주여부
