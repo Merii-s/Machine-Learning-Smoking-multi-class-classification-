@@ -1,0 +1,30 @@
+AED : 
+
+* Analyse bivariée : 
+    - relation variable cible / variables quantitatives : 
+        - distributions conditionnelles sachant la variable cible et validation avec tests d'hypothèses
+        - matrice de corrélation
+        - pairplots
+    - relation variable cible / variables quantitatives : 
+        - cross-tab
+    - Construire des hypothèses
+
+* Analyse approfondie : 
+    - relations entre variables explicatives (scatterplots, etc)
+
+* Tests d'hypothèses : 
+    - Vérif des hypothèses formulées pendant l'analyse bivariée
+
+____________________
+
+Pré-traitement : 
+
+
+____________________
+
+Modélisation : 
+
+
+____________________
+
+Evaluation : 
