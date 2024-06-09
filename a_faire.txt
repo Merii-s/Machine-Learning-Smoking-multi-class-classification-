@@ -1,19 +1,22 @@
 AED : 
 
 * Analyse bivariée : 
-    - relation variable cible / variables quantitatives : 
-        - distributions conditionnelles sachant la variable cible et validation avec tests d'hypothèses
-        - matrice de corrélation
-        - pairplots
-    - relation variable cible / variables quantitatives : 
-        - cross-tab
-    - Construire des hypothèses
+    - relation variable cible / variables quantitatives : OK
+        - distributions conditionnelles sachant la variable cible et validation avec tests d'hypothèses OK
+    - relation variable cible / variables qualitatives :  OK
+        - cross-tab OK
+    - Construire des hypothèses OK 
 
 * Analyse approfondie : 
     - relations entre variables explicatives (scatterplots, etc)
+    - pairplots
+    - matrice de corrélation
 
 * Tests d'hypothèses : 
-    - Vérif des hypothèses formulées pendant l'analyse bivariée
+    - Vérif des hypothèses formulées pendant l'analyse bivariée: 
+        - test d'adéquation à la normale OK
+        - hemoglobin différente selon DRK_YN OK
+        - age, height, weight, hemoglobin et gammaGTP différente selon SMK_type_cd_as
 
 ____________________
 
