@@ -1,0 +1,2 @@
+SMK_stat_type_cd : Smoking state, 1(never), 2(used to smoke but quit), 3(still smoke) [catégorielle]
+- DRK_YN : Drinker or Not [catégorielle]
