@@ -3,7 +3,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import LabelEncoder
 
 def preprocess_data(data, target):
     X = data.drop(columns=[target])
@@ -23,7 +23,7 @@ def create_pipeline(model, numerical_features, categorical_features):
 
     categorical_transformer = Pipeline(steps=[
         ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
-        ('onehot', OneHotEncoder(handle_unknown='ignore'))])
+        ('onehot', LabelEncoder(handle_unknown='ignore'))])
 
     preprocessor = ColumnTransformer(
         transformers=[
