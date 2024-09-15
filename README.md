@@ -14,7 +14,7 @@ This project focuses on developing a multi-class classification model to predict
 
 For a detailed explanation of the methodologies, results, and findings of this project, please refer to the **[Project Report.pdf](./Project%20Report.pdf)** in this repository.
 
-A detailed (french) presentation done in the university can be found [here]([url]([https://docs.google.com/presentation/d/1a1K2ON1uh69ddbUMSsT9hUKOemekwF1E/edit#slide=id.g2e6ee3a539a_0_107](https://docs.google.com/presentation/d/1a1K2ON1uh69ddbUMSsT9hUKOemekwF1E/edit?usp=sharing&ouid=107053235580185413108&rtpof=true&sd=true))). 
+A detailed (french) presentation done in the university can be found [here]([[https://docs.google.com/presentation/d/1a1K2ON1uh69ddbUMSsT9hUKOemekwF1E/edit#slide=id.g2e6ee3a539a_0_107](https://docs.google.com/presentation/d/1a1K2ON1uh69ddbUMSsT9hUKOemekwF1E/edit?usp=sharing&ouid=107053235580185413108&rtpof=true&sd=true)]). 
 
 ## Installation
 
