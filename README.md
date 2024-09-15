@@ -3,7 +3,8 @@
 ## Overview
 
 This project, conducted over two weeks in an academic context for the Machine Learning "enseignement" at Université de Technologie de Compiègne, focuses on developing a multi-class classification model to predict smoking status based on physiological signals. 
-\n The goal is to leverage machine learning techniques to accurately classify individuals into different categories based on their health data, which can aid in public health initiatives and personalized medicine.
+
+The goal is to leverage machine learning techniques to accurately classify individuals into different categories based on their health data, which can aid in public health initiatives and personalized medicine.
 
 ## Key Features
 
