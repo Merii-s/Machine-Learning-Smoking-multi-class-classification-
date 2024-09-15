@@ -1,14 +1,5 @@
 # Multi-Class Classification Project
 
-
-
-## Overview
-
-This project focuses on developing a multi-class classification model to predict smoking status based on physiological signals. It uses datas collected from National Health Insurance Service in Korea available on this kaggle page : https://www.kaggle.com/datasets/sooyoungher/smoking-drinking-dataset
-The goal is to leverage machine learning techniques to accurately classify individuals into different categories based on their health data, which can aid in public health initiatives and personalized medicine.
-
-# Multi-Class Classification Project
-
 ## Overview
 
 This project focuses on developing a multi-class classification model to predict smoking status based on physiological signals. The goal is to leverage machine learning techniques to accurately classify individuals into different categories based on their health data, which can aid in public health initiatives and personalized medicine.
